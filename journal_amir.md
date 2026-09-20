@@ -1,4 +1,4 @@
-<img width="1363" height="768" alt="image" src="https://github.com/user-attachments/assets/2cad681c-f64b-4c9f-85f6-6e41aaf7d3ae" />---
+---
 title: "Macropad"
 author: "Amir"
 description: "4x4 keyboard with rotary encoder"
