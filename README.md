@@ -22,6 +22,7 @@ To teach my brother building stuff, I teamed with him and explained how to desig
 | XIAO RP2040 | 6$ |
 | Diodes | 1$ |
 | Rotary Encoder | 0.6$ |
+| Total | 8.6$ |
 
 ## Images
 <img width="1584" height="1009" alt="image" src="https://github.com/user-attachments/assets/87bc5836-f029-4674-bea0-26b9eba9deab" />
