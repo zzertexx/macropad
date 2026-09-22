@@ -31,3 +31,12 @@ Worked on 3D model of enclosure
 <img width="1613" height="680" alt="image" src="https://github.com/user-attachments/assets/4565fc95-b21a-45fd-aa56-5eb864f5335b" />
 
 **Total time spent: 5h:30min**
+
+# September 21-22: Firmware finished
+
+Finished firmware
+Updated 3D model slightly
+
+<img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/4b96aac1-f2c5-4a6b-9679-ba653b33a144" />
+
+**Total time spent: 2h:10min**
