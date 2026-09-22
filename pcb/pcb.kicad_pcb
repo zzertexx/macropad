@@ -84,9 +84,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/mkzer/Documents/GitHub/macropad/Gerber/")
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
@@ -9591,7 +9591,7 @@
 		(descr "SOD-123_L2.8-W1.8-LS3.7-RD-1 footprint")
 		(tags "SOD-123_L2.8-W1.8-LS3.7-RD-1 footprint C917030")
 		(property "Reference" "D6"
-			(at 0.4 -0.19 -270)
+			(at 0.4 -0.19 90)
 			(layer "F.SilkS")
 			(uuid "50f71429-5221-490c-8ceb-da4bdcb07a4c")
 			(effects
